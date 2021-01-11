@@ -1,0 +1,1 @@
+This is Kelsey McDuke's first git project!
